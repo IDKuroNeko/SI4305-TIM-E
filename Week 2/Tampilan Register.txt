@@ -1,1 +1,3 @@
 contoh tampilan register
+
+selesai
